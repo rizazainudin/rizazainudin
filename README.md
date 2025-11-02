@@ -51,9 +51,9 @@ As a **Business Relationship Manager for Analytics & Automation**, I bridge busi
 - [Harry Potter Movie Scripts](https://github.com/rizainudin/sql-projects/blob/main/HarryPotter_SQL.ipynb)  
 
 *Tableau Dashboards*
-- [Disney Movies Dashboard](https://public.tableau.com/app/profile/riza.zainudin/viz/Disney_16210753523740/Dashboard1)  
-- [Airbnb Listings Dashboard](https://public.tableau.com/app/profile/riza.zainudin/viz/AIrbnb_16186411719070/R1)  
-- [Superstore Sales Dashboard](https://public.tableau.com/app/profile/riza.zainudin/viz/Superstoresales_16158884322510/Dashboard1)  
+- [Disney Movies Dashboard](https://public.tableau.com/app/profile/riza.zainudin/viz/Disney_16210753523740/Dashboard1) — Box office trends, genre performance, and inflation-adjusted gross insights.
+- [Airbnb Listings Dashboard](https://public.tableau.com/app/profile/riza.zainudin/viz/AIrbnb_16186411719070/R1) — Geographic trends, occupancy patterns, and review score analytics.
+- [Superstore Sales Dashboard](https://public.tableau.com/app/profile/riza.zainudin/viz/Superstoresales_16158884322510/Dashboard1) — Profit trends, top categories, and product performance insights.
 
 ---
 
