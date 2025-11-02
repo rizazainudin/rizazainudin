@@ -28,9 +28,14 @@ As a **Business Relationship Manager for Analytics & Automation**, I bridge busi
 ### 🚀 Featured Projects  
 
 **🧠 Power Platform Solutions**
-- **Invoice Automation (Power Automate + AI Builder)** — Digitized invoice processing (400+ monthly) at Rayong plant, saving 150+ hours/month.  
-- **360° Performance Review App (Power Apps)** — A role-based performance management tool integrating Power BI dashboards and RLS.  
-- **Power Platform Governance Framework** — Standardized solution blueprints, version control, and ALM governance across SEA.  
+
+*Power Automate (Cloud)*  
+- [**Issue Reporting Form**](https://github.com/rizazainudin/Issue-Log-Form/) — Automated issue tracking built with Microsoft Forms, Power Automate, and SharePoint, enabling seamless logging, routing, and follow-up for team-reported issues.  
+- **Inbound & Outbound Invoice Automation** — Digitized the entire invoice process using AI Builder and Power Automate, eliminating manual entry and saving 150+ hours per month.  
+- **KPI Summary Weekly Notification** — Automated the distribution of KPI summaries by converting Power BI dashboard snapshots into dynamic email digests, ensuring leadership stays informed without dashboard access.  
+
+*Power Apps Platform*  
+- **360° Performance Review Platform** — Designed a role-based feedback system where managers and employees can exchange performance evaluations in both directions, improving transparency and boosting review completion rates by 40%.
 
 
 **📊 Data Analytics Projects**
