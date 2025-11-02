@@ -4,9 +4,7 @@
 
 🖐 Hi, I’m [**Riza Zainudin**](https://www.linkedin.com/in/riza-zainudin/) — a **Power Platform Solution Architect** and **Data & Automation Lead** passionate about transforming business operations through analytics, automation, and innovation.  
 
-With 4+ years of experience designing and deploying **enterprise-scale Power Platform solutions**, I specialize in connecting data, people, and processes to drive measurable business outcomes. My expertise spans **PowerApps, Power Automate, Power BI (DAX, RLS), Dataverse, and Co-Pilot Studio**, backed by strong governance practices (ALM, PDD, TDD) that ensure scalability and consistency.  
-
-As a **Business Relationship Manager for Analytics & Automation**, I bridge business and IT, enabling analytics adoption, architecting automation pipelines, and mentoring regional teams to build with confidence and quality.  
+With 4+ years of experience designing and deploying **enterprise-scale Power Platform solutions**, I specialize in connecting data, people, and processes to drive measurable business outcomes. As a **Business Relationship Manager for Analytics & Automation**, I bridge business and IT, enabling analytics adoption, architecting automation pipelines, and mentoring regional teams to build with confidence and quality.  
 
 🌱 I’m constantly exploring how **data visualization and process automation** can shape smarter, faster, and more human-centered organizations.  
 
@@ -30,7 +28,7 @@ As a **Business Relationship Manager for Analytics & Automation**, I bridge busi
 **🧠 Power Platform Solutions**
 
 *Power Automate (Cloud)*  
-- [**Issue Reporting Form**](https://github.com/rizazainudin/Issue-Log-Form/) — Automated issue tracking built with Microsoft Forms, Power Automate, and SharePoint, enabling seamless logging, routing, and follow-up for team-reported issues.  
+- [**Issue Reporting Form**](https://github.com/rizazainudin/Issue-Log-Form/blob/main/README.md) — Automated issue tracking built with Microsoft Forms, Power Automate, and SharePoint, enabling seamless logging, routing, and follow-up for team-reported issues.  
 - **Inbound & Outbound Invoice Automation** — Digitized the entire invoice process using AI Builder and Power Automate, eliminating manual entry and saving 150+ hours per month.  
 - **KPI Summary Weekly Notification** — Automated the distribution of KPI summaries by converting Power BI dashboard snapshots into dynamic email digests, ensuring leadership stays informed without dashboard access.  
 
