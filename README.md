@@ -70,9 +70,9 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 
 ### 📚 Education  
 
+📜 Certified Data Analyst — The Center of Applied Data Science, Malaysia
 🎓 Master’s in Civil Engineering & Hydraulics — INP Grenoble – ENSE3, France  
-🎓 Bachelor’s in Civil Engineering — Université de Grenoble, France  
-📜 Certified Data Analyst — The Center of Applied Data Science, Malaysia   
+🎓 Bachelor’s in Civil Engineering — Université de Grenoble, France    
 
 ---
 
