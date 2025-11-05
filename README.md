@@ -8,8 +8,8 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 
 🌱 I’m constantly exploring how **data visualization and process automation** can shape smarter, faster, and more human-centered organizations.  
 
-📫 Reach me at [linkedin.com/in/riza-zainudin](https://www.linkedin.com/in/riza-zainudin/)  
 🖥️ Visit my digital portfolio: [rizazainudin.github.io](https://rizazainudin.github.io/home/)  
+📫 Reach me at [linkedin.com/in/riza-zainudin](https://www.linkedin.com/in/riza-zainudin/)  
 
 ---
 
