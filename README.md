@@ -35,6 +35,10 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 *Power Apps Platform*  
 - **360° Performance Review Platform** — Designed a role-based feedback system where managers and employees can exchange performance evaluations in both directions, improving transparency and boosting review completion rates by 40%.
 
+*Copilot Autonomous Agent*
+- **Bulk Product Ordering BulkChat** 
+
+
 
 **📊 Data Analytics Projects**
 
