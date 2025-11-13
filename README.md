@@ -28,9 +28,10 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 **🧠 Power Platform Solutions**
 
 *Power Automate (Cloud)*  
-- [**Issue Reporting Form**](https://github.com/rizazainudin/Issue-Log-Form/blob/main/README.md) — Automated issue tracking built with Microsoft Forms, Power Automate, and SharePoint, enabling seamless logging, routing, and follow-up for team-reported issues.  
+- [**Issue Reporting Form**](https://github.com/rizazainudin/Issue-Log-Form/blob/main/README.md) — Automated issue tracking built with Microsoft Forms, Power Automate, and SharePoint, enabling seamless logging, routing, and follow-up for team-reported issues.
+- [**Weekly Data Health Check**](https://github.com/rizazainudin/Data-Health-Check/blob/main/README.md) - Weekly automated data health reporting using Power BI subscription snapshots.
+    The flow triggers on subscription emails, extracts non-mapped data via Power BI queries, saves snapshots to SharePoint, and sends a formatted email to the business team.
 - **Inbound & Outbound Invoice Automation** — Digitized the entire invoice process using AI Builder and Power Automate, eliminating manual entry and saving 150+ hours per month.  
-- **KPI Summary Weekly Notification** — Automated the distribution of KPI summaries by converting Power BI dashboard snapshots into dynamic email digests, ensuring leadership stays informed without dashboard access.  
 
 *Power Apps Platform*  
 - **360° Performance Review Platform** — Designed a role-based feedback system where managers and employees can exchange performance evaluations in both directions, improving transparency and boosting review completion rates by 40%.
