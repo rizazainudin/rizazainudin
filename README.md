@@ -7,8 +7,7 @@
 With 4+ years of experience designing and deploying **enterprise-scale Power Platform solutions**, I specialize in connecting data, people, and processes to drive measurable business outcomes. As a **Business Relationship Manager for Analytics & Automation**, I bridge business and IT, enabling analytics adoption, architecting automation pipelines, and mentoring regional teams to build with confidence and quality.  
 
 🌱 I’m constantly exploring how **data visualization and process automation** can shape smarter, faster, and more human-centered organizations.  
-
-🖥️ Visit my digital portfolio: [rizazainudin.github.io](https://rizazainudin.github.io/home/)  
+ 
 📫 Reach me at [linkedin.com/in/riza-zainudin](https://www.linkedin.com/in/riza-zainudin/)  
 
 ---
@@ -76,7 +75,6 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 ### 📚 Education  
 
 📜 Certified Data Analyst — The Center of Applied Data Science, Malaysia
-
 🎓 Master’s in Civil Engineering & Hydraulics — INP Grenoble – ENSE3, France  
 🎓 Bachelor’s in Civil Engineering — Université de Grenoble, France    
 
