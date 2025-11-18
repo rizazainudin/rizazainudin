@@ -50,9 +50,9 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 - [LEGO Theme Analysis](https://app.powerbi.com/view?r=eyJrIjoiMzViYmI0OGQtYzk2OS00MjU5LWFjNDEtYmRkZWI5NzI1ZDZhIiwidCI6IjU2OGU1ZDUxLTgyMGEtNGJkYS1hZDY2LWMwNGVjZWJjZDAyMyIsImMiOjEwfQ%3D%3D) — Sales and popularity trends by LEGO theme.  
 
 *Python Projects*
-- [Fashion E-Commerce Inventory](https://github.com/RizaZainudin/python-projects/blob/main/Fashion.ipynb)  
-- [Driver-Partner Engagement](https://github.com/rizazainudin/python-driver-partner)  
-- [COVID-19 Data Analysis](https://github.com/rizazainudin/python-covid19/blob/main/Covid-19%20Data%20Analysis.ipynb)  
+- [Fashion E-Commerce Inventory](https://github.com/RizaZainudin/python-projects/blob/main/Fashion.ipynb) - This project focuses on optimizing inventory management for a fashion e-commerce platform.
+- [Driver-Partner Engagement](https://github.com/rizazainudin/python-driver-partner) - This project aims to evaluate and enhance engagement among driver-partners in a ride-hailing ecosystem.
+- [COVID-19 Data Analysis](https://github.com/rizazainudin/python-covid19/blob/main/Covid-19%20Data%20Analysis.ipynb) - This project involves analyzing global and regional COVID-19 datasets to uncover trends in infection rates, vaccination progress, and mortality statistics. 
 
 *SQL Projects*
 - [Harry Potter Movie Scripts](https://github.com/rizainudin/sql-projects/blob/main/HarryPotter_SQL.ipynb)  
