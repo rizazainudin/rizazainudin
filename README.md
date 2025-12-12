@@ -9,6 +9,7 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 🌱 I’m constantly exploring how **data visualization and process automation** can shape smarter, faster, and more human-centered organizations.  
  
 📫 Reach me at [linkedin.com/in/riza-zainudin](https://www.linkedin.com/in/riza-zainudin/)  
+📜 Microsoft Certified: Power Platform Fundamentals [Credential](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc)
 
 ---
 
