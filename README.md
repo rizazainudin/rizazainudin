@@ -9,8 +9,9 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 🌱 I’m constantly exploring how **data visualization and process automation** can shape smarter, faster, and more human-centered organizations.  
  
 📫 Reach me at [linkedin.com/in/riza-zainudin](https://www.linkedin.com/in/riza-zainudin/)  
-📜 Microsoft Certified: Power Platform Fundamentals [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc) <br>
-📜 Microsoft Certified: Power BI Data Analyst Associate [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc)
+📜 PL900 - Microsoft Certified: Power Platform Fundamentals [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc) <br>
+📜 PL300 - Microsoft Certified: Power BI Data Analyst Associate [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc) <br>
+📜 AZ900 - Microsoft Certified: Azure Fundamentals [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/22c77c3a618c10e3)
 
 ---
 
@@ -76,9 +77,9 @@ With 4+ years of experience designing and deploying **enterprise-scale Power Pla
 
 ### 📚 Education  
 
-📜 Certified Data Analyst — The Center of Applied Data Science, Malaysia
-🎓 Master’s in Civil Engineering & Hydraulics — INP Grenoble – ENSE3, France  
-🎓 Bachelor’s in Civil Engineering — Université de Grenoble, France    
+📜 Certified Data Analyst — The Center of Applied Data Science, Malaysia <br>
+🎓 Master’s in Civil Engineering & Hydraulics — INP Grenoble – ENSE3, France  <br>
+🎓 Bachelor’s in Civil Engineering — Université de Grenoble, France <br>
 
 ---
 
