@@ -6,9 +6,9 @@
 
 With 5 years of experience designing and deploying **enterprise-scale Power Platform solutions**, I specialize in connecting data, people, and processes to drive measurable business outcomes. As a **Business Relationship Manager for Analytics & Automation**, I bridge business and IT, enabling analytics adoption, architecting automation pipelines, and mentoring regional teams to build with confidence and quality.  
 
-🌱 I’m constantly exploring how **data visualization and process automation** can shape smarter, faster, and more human-centered organizations.  
+I’m constantly exploring how **data visualization and process automation** can shape smarter, faster, and more human-centered organizations.  
  
-📫 Reach me at [linkedin.com/in/riza-zainudin](https://www.linkedin.com/in/riza-zainudin/) <br>
+Proudly certificates: <br>
 📜 PL300 - Microsoft Certified: Power BI Data Analyst Associate [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc) <br>
 📜 PL900 - Microsoft Certified: Power Platform Fundamentals [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc) <br>
 📜 AZ900 - Microsoft Certified: Azure Fundamentals [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/22c77c3a618c10e3)<br>
@@ -84,4 +84,4 @@ With 5 years of experience designing and deploying **enterprise-scale Power Plat
 
 ---
 
-⭐ **If you found my work interesting, consider following or connecting on [LinkedIn](https://www.linkedin.com/in/riza-zainudin/)!**
+⭐ **If you found my work interesting, consider following or connecting!**
