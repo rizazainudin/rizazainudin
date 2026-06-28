@@ -2,7 +2,7 @@
 
 ### About Me  
 
-🖐 Hi, I’m [**Riza Zainudin**](https://www.linkedin.com/in/riza-zainudin/) — a **Power Platform Solution Architect** and **Data & Automation Lead** passionate about transforming business operations through analytics, automation, and innovation.  
+🖐 Hi, I’m [**Riza Zainudin**] — a **Power Platform Solution Architect** and **Data & Automation Lead** passionate about transforming business operations through analytics, automation, and innovation.  
 
 With 5 years of experience designing and deploying **enterprise-scale Power Platform solutions**, I specialize in connecting data, people, and processes to drive measurable business outcomes. As a **Business Relationship Manager for Analytics & Automation**, I bridge business and IT, enabling analytics adoption, architecting automation pipelines, and mentoring regional teams to build with confidence and quality.  
 
