@@ -12,7 +12,8 @@ Proudly certificates: <br>
 📜 PL300 - Microsoft Certified: Power BI Data Analyst Associate [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/837FCB162F91D75F) <br>
 📜 PL900 - Microsoft Certified: Power Platform Fundamentals [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc) <br>
 📜 AZ900 - Microsoft Certified: Azure Fundamentals [(Show credential)](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/22c77c3a618c10e3)<br>
-📜 AB900 - Microsoft Certified: Copilot and Agent Administration Fundamentals [(Show credential)](https://learn.microsoft.com/api/credentials/share/en-us/Riza-Zainudin/62D3C72C21CA7E94)
+📜 AB900 - Microsoft Certified: Copilot and Agent Administration Fundamentals [(Show credential)](https://learn.microsoft.com/api/credentials/share/en-us/Riza-Zainudin/62D3C72C21CA7E94)<br>
+📜 AB730 - Microsoft Certified: AI Business Professional [(Show credential)](https://learn.microsoft.com/api/credentials/share/en-us/Riza-Zainudin/E105D0106F2BEDE)
 
 ---
 
