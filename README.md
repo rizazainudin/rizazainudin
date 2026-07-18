@@ -139,9 +139,9 @@ I'm an **Automation Solution Architect with 5+ years of experience** designing, 
 
 ## 🎓 Where It Started
 
-- Data Analyst Certificate — The Center of Applied Data Science (CADS), Malaysia · Mar 2021
-- Master's in Civil Engineering & Hydraulics — INP Grenoble – ENSE3, France
-- Bachelor's in Civil Engineering — Université de Grenoble, France
+- Data Analyst Certificate — The Center of Applied Data Science (CADS), Malaysia · March 2021
+- Master's in Civil Engineering & Hydraulics — INP Grenoble – ENSE3, France · September 2020
+- Bachelor's in Civil Engineering — Université de Grenoble, France · June 2018
 
 ---
 
