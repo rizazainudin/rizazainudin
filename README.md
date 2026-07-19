@@ -108,7 +108,7 @@ I'm an **Automation & Analytics Solution Architect with 5+ years of experience**
 ## 📈 Where I've Delivered
 
 ### Kellogg Asia Marketing Inc (Mars Snacking) — Petaling Jaya
-**IT BRM | Data & Automation Lead** · Nov 2024 – Present
+**IT BRM | Data & Automation Lead** · Nov 2024 – March 2026
 
 *Digital Performance & Commercial Enablement*
 - Led regional analytics and digital performance initiatives across SEA — 10+ Power BI dashboards for sales, inventory, and demand visibility, driving a **200%** increase in active business users.
