@@ -6,6 +6,8 @@
 
 **I turn slow, manual business processes into automated systems that save teams hours.**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-rizazainudin.github.io-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://rizazainudin.github.io/home/)
+
 </div>
 
 ---
