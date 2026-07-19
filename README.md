@@ -2,9 +2,9 @@
 
 # Bonjour, Hello! 👋 I'm Riza Zainudin
 
-### Automation Solution Architect · Microsoft Power Platform Specialist
+### Automation & Analytics Solution Architect · Microsoft Power Platform Specialist
 
-**I turn slow, manual business processes into automated systems that save teams 150+ hours every month.**
+**I turn slow, manual business processes into automated systems that save teams hours.**
 
 </div>
 
@@ -23,19 +23,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
 ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![SAP GUI Scripting](https://img.shields.io/badge/SAP%20GUI%20Scripting-0FAAFF?style=flat-square&logo=sap&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 
 ---
 
 ## 🚀 Why Work With Me
 
-I'm an **Automation Solution Architect with 5+ years of experience** designing, building, and governing enterprise-scale Power Platform solutions across Southeast Asia. I don't just build apps — I architect end-to-end solutions that connect data, people, and processes to deliver measurable outcomes:
+I'm an **Automation & Analytics Solution Architect with 5+ years of experience** designing, building, and governing enterprise-scale Power Platform solutions. I don't just build apps — I architect end-to-end solutions that connect data, people, and processes to deliver measurable outcomes:
 
 | Impact | Result |
 |---|---|
 | Manual effort eliminated | **90%** average across automation projects |
 | Invoice processing automated | **400+ invoices/month** — **150+ hours/month** recovered |
-| Enterprise solutions delivered | **30+** Power Platform solutions across SEA |
+| Enterprise solutions delivered | **30+** Power Platform solutions across org. |
 | On-time delivery | **95%** under CoE governance standards I built |
 | Analytics adoption | **2×** active user engagement through enablement programmes |
 
@@ -60,8 +61,6 @@ I'm an **Automation Solution Architect with 5+ years of experience** designing, 
 | **AZ-900 · Azure Fundamentals** | Microsoft | Mar 2026 | [Show credential](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/22c77c3a618c10e3) |
 | **PL-300 · Power BI Data Analyst Associate** | Microsoft | Jan 2026 | [Show credential](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/837FCB162F91D75F) |
 | **PL-900 · Power Platform Fundamentals** | Microsoft | Dec 2025 | [Show credential](https://learn.microsoft.com/en-us/users/riza-zainudin/credentials/56f7f4e4f9eac0bc) |
-
-*Plus continuous training with Anthropic (Claude Code, AI Fluency, Agent Skills), Microsoft AI Skills Fest, Coursera & Udemy.*
 
 ---
 
@@ -107,33 +106,55 @@ I'm an **Automation Solution Architect with 5+ years of experience** designing, 
 ## 📈 Where I've Delivered
 
 ### Kellogg Asia Marketing Inc (Mars Snacking) — Petaling Jaya
-**IT BRM | Data & Automation Lead** · Nov 2024 – Feb 2026 <br>
-**Analytics & Automation Specialist** · Jan 2024 – Nov 2024
+**IT BRM | Data & Automation Lead** · Nov 2024 – Present
 
-- Architected a regional data submission platform (Power Apps + Snowflake), standardising sales & inventory reporting across SEA markets — eliminated **90%** of manual consolidation effort.
-- Designed end-to-end solution architecture for a regional Demand Forecasting platform aligned to IBP — cut manual reconciliation by **65%** across 6+ markets.
-- Built AI-powered invoice processing (AI Builder + Power Automate) for a manufacturing plant — 400+ monthly invoices automated, **150+ hours/month** recovered.
-- Led regional analytics delivery: 10+ Power BI dashboards governed, **200% increase** in active users through enablement and self-service frameworks.
-- Defined ALM governance, solution design standards, and PDD/TDD templates — **95% on-time delivery** across all initiatives.
-- Directed Tableau → Power BI migration strategy — **20%** licensing cost reduction, **40%** faster dashboard delivery.
+*Digital Performance & Commercial Enablement*
+- Led regional analytics and digital performance initiatives across SEA — 10+ Power BI dashboards for sales, inventory, and demand visibility, driving a **200%** increase in active business users.
+- Delivered a centralised Power Apps submission platform integrated with Snowflake for real-time commercial performance tracking — **90%** reduction in manual consolidation effort, faster decision turnaround.
+- Designed a regional Demand Forecasting workflow supporting IBP processes — **65%** reduction in reconciliation effort, improved forecast transparency.
+- Delivered monthly performance insights to regional stakeholders, translating KPI trends into actionable commercial recommendations.
+
+*Automation & ROI Optimization*
+- Implemented AI-driven invoice automation (400+ invoices/month) — **150+ hours/month** recovered.
+- Leveraged Microsoft Fabric (Dataflows Gen2 + OneLake) to centralise and standardise multi-market sales data — **~60%** reduction in manual data preparation, stronger reporting consistency.
+- Established structured governance and delivery standards for scalable, business-aligned digital solutions.
+- Drove digital adoption and data literacy through monthly enablement sessions — strengthened self-service analytics maturity.
+
+**Analytics & Automation Specialist** · Jan 2024 – Nov 2024
+- Led end-to-end delivery of regional Power Platform initiatives, coordinating developers and enforcing PDD/TDD design standards — **95%** on-time delivery.
+- Strengthened governance and application lifecycle management (ALM) — improved solution maintainability, fewer production issues.
+- Spearheaded migration from Tableau to Power BI — **20%** lower licensing cost, **40%** faster dashboard delivery.
+- Provided hands-on technical leadership in Power Apps, Power Automate, and Power BI across complex use cases.
 
 ### Baker Hughes Services (Malaysia) Sdn Bhd — Kuala Lumpur
-**Data & Analytics Specialist** · Jul 2023 – Jan 2024 <br>
-**Senior Data Analyst** · Oct 2022 – Jun 2023 <br>
-**Data Analyst** · Feb 2022 – Oct 2022
+**Data & Analytics Specialist** · Jul 2023 – Jan 2024
+- Partnered with finance leaders to co-design automation solutions, drafting PDDs and supporting TDDs — cut reporting cycle times by **70%**, increased analysis efficiency across multiple functions.
+- Spearheaded the Power Platform **Center of Excellence** with volunteer contributors, streamlining solution design and governance — **40%** fewer duplicate workflows, higher-quality deliverables.
+- Developed advanced Power BI and Python analytics solutions, including a tool that cut SAP data extraction time from **6+ hours to 90 minutes**, improving reporting reliability.
 
-- Founded and led the Power Platform **Center of Excellence** — governance, reusable component libraries, peer reviews; cut duplicate workflows by **40%**.
-- Architected 7+ enterprise Power Apps solutions end-to-end — eliminated **100% of manual errors**, cut processing time by **90%**.
-- Engineered Python-based SAP data extraction framework — reporting cycle from **6+ hours to 90 minutes**.
-- Digitalised the global Manual Journal Entry process with Power Automate — removed **100%** of email-based back-and-forth.
-- Delivered 10+ Power BI dashboards with advanced DAX and Power Query for the Reporting & Statutory team.
+**Senior Data Analyst** · Oct 2022 – Jun 2023
+- Delivered enterprise-scale automation: 7+ high-performing Power Apps — **90%** faster processing, **100%** elimination of manual errors, driving significant operational cost savings.
+- Designed and maintained 10+ Power BI dashboards with advanced DAX and Power Query — actionable KPIs and insights that improved business decision-making.
+- Coached and mentored 3 junior analysts, building technical capability in Power Platform and BI — accelerated delivery timelines and improved solution quality across the team.
+
+**Data Analyst** · Feb 2022 – Oct 2022
+- Streamlined the global Manual Journal Entry process via Power Automate and Microsoft Forms — eliminated **100%** of back-and-forth email communication.
+- Built automated VBA macro tools for financial reporting (TB Review, JE Completeness) — cut down **200+ days** of manual spreadsheet work annually.
+- Designed and maintained Power BI dashboards with DAX — 10 actionable visualisations and KPIs for the Reporting & Statutory team.
 
 ### Mr DIY Group (M) Sdn Bhd — Seri Kembangan
-**Junior Data Analyst** · Apr 2021 – Feb 2022 <br>
+**Junior Data Analyst** · Apr 2021 – Feb 2022
+- Designed and optimised SQL scripts for data extraction across multiple databases — **80%** faster processing, **0%** error rate.
+- Automated operational reporting and data cleansing via Excel VBA/Macro — **90%** reduction in manual effort.
+- Conducted inventory trend analysis for overseas warehouses and retail outlets — **25%** improvement in inventory management efficiency.
 
-- Optimised SQL data extraction pipelines across enterprise databases — **80%** faster processing, zero error rate.
-- Built Excel VBA/Macro automation for reporting and data cleansing — **90%** manual effort reduction.
-- Delivered inventory trend analysis for overseas warehouses and retail outlets — **25%** inventory management efficiency gain.
+### PETRONAS — Kuala Lumpur
+**Project Management Office | Manpower Planner Assistant (Intern)** · Apr 2019 – Sep 2019
+
+*Where it all began — first hands-on exposure to turning raw data into a working tool.*
+- Extracted and integrated Manpower Planning data from the database into an internal tool for easier use — **5%** increase in working productivity.
+- Analysed generated Manpower Planning data to identify and revise 3-month de-mobility staffing for the project management team — **70%** reduction in offshore project shortages and surpluses.
+- Revised PETRONAS' project organisation charts as a PMO Department trainee — **100%** of required project data organised.
 
 ---
 
