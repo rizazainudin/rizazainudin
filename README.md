@@ -2,11 +2,12 @@
 
 # Bonjour, Hello! 👋 I'm Riza Zainudin
 
-### Automation & Analytics Solution Architect · Microsoft Power Platform Specialist
+### Automation & AI Solution Architect · Power Platform, Copilot & Citizen Enablement
 
-**I turn slow, manual business processes into automated systems that save teams hours.**
+**I help teams automate repetitive work, adopt AI and Copilot, and build their own automation capability.**
+My work sits at the intersection of business process automation, AI adoption, analytics, governance, and citizen development.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rizazainudin.github.io-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://rizazainudin.github.io/home/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rizazainudin.github.io)](https://rizazainudin.github.io/home/)
 
 </div>
 
@@ -30,27 +31,31 @@
 
 ---
 
-## 🚀 Why Work With Me
+## 🚀 How I Create Value
 
-I'm an **Automation & Analytics Solution Architect with 5+ years of experience** designing, building, and governing enterprise-scale Power Platform solutions. I don't just build apps — I architect end-to-end solutions that connect data, people, and processes to deliver measurable outcomes:
+I work at the intersection of automation, AI adoption, analytics, and enablement. My role goes beyond building solutions. I help teams identify the right opportunities, design maintainable solutions, establish good governance, and develop the skills to use automation and AI effectively themselves.
 
-| Impact | Result |
+| What I Bring | How I Contribute |
 |---|---|
-| Manual effort eliminated | **90%** average across automation projects |
-| Invoice processing automated | **400+ invoices/month** — **150+ hours/month** recovered |
-| Enterprise solutions delivered | **30+** Power Platform solutions across org. |
-| On-time delivery | **95%** under CoE governance standards I built |
-| Analytics adoption | **2×** active user engagement through enablement programmes |
+| **Automation** | Turn repetitive business processes into maintainable Power Platform solutions |
+| **AI & Copilot** | Help teams identify practical use cases for Microsoft 365 Copilot, Copilot Studio, and AI capabilities |
+| **Citizen Development** | Develop Automation Citizens who can solve problems within their own functions |
+| **Solution Design** | Connect apps, workflows, data, analytics, and AI into end-to-end business solutions |
+| **Adoption & Enablement** | Share knowledge and help colleagues become more confident with automation and AI |
+| **Governance** | Promote documentation, ALM, standards, and reusable approaches that keep solutions maintainable |
+| **Analytics** | Turn operational data into usable insights through Power BI, Fabric, SQL, and related technologies |
 
 ---
 
 ## 💡 What I Architect
 
-- **Business Process Automation** — Power Automate + AI Builder workflows that eliminate manual entry, approvals, and email chains
-- **Enterprise Apps** — Power Apps solutions on Dataverse with role-based access and ALM governance
-- **AI Agents** — Copilot Studio autonomous agents that handle real business transactions through conversation
-- **Analytics & BI** — Power BI and Microsoft Fabric platforms with governed, self-service reporting (DAX, Power Query, SQL, Python)
-- **Governance & CoE** — ALM standards, PDD/TDD documentation, and Center of Excellence frameworks that keep delivery fast *and* maintainable
+- **Business Process Automation** — Power Automate and AI-enabled workflows that reduce repetitive manual work, approvals, data entry, and email-driven processes.
+- **Enterprise Apps** — Power Apps and Dataverse solutions designed around real business processes, role-based access, maintainability, and governance.
+- **AI Agents** — Copilot Studio agents that connect conversational AI with enterprise knowledge, workflows, and business processes.
+- **Microsoft 365 Copilot Adoption** — Practical enablement around Copilot use cases, prompting, limitations, responsible usage, and integration into everyday work.
+- **Analytics & Business Intelligence** — Power BI and Microsoft Fabric solutions supported by Power Query, DAX, SQL, Python, and governed data practices.
+- **Governance & CoE** — ALM standards, solution documentation, development practices, and governance frameworks that help automation scale sustainably.
+- **Citizen Development** — Coaching Automation Citizens from opportunity identification through solution development, documentation, governance, and delivery.
 
 ---
 
