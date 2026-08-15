@@ -7,7 +7,7 @@
 **I help teams automate repetitive work, adopt AI and Copilot, and build their own automation capability.**
 My work sits at the intersection of business process automation, AI adoption, analytics, governance, and citizen development.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rizazainudin.github.io)(https://rizazainudin.github.io/home/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-rizazainudin.github.io-000000?style=flat-square&logo=googlechrome&logoColor=white)](https://rizazainudin.github.io/home/)
 
 </div>
 
