@@ -59,6 +59,44 @@ I work at the intersection of automation, AI adoption, analytics, and enablement
 
 ---
 
+## 🤖 How I Enable AI Adoption
+
+I help colleagues understand where Microsoft Copilot fits into real work: daily business processes, decision-making, automation habits, and team routines.
+
+Through monthly Copilot sharing sessions, I cover:
+
+- Practical business use cases
+- Prompting techniques
+- Feature demonstrations
+- Copilot limitations and responsible AI usage
+- Microsoft 365 Copilot and Copilot Studio
+- AI agents and agentic workflow concepts
+
+My goal is to help users move from **"What can Copilot do?"** to **"How can I use Copilot effectively in my work?"**
+
+---
+
+## 🌱 How I Grow Automation Citizens
+
+I help colleagues from different business functions build the confidence to identify and solve automation opportunities within their own areas.
+
+The approach follows a simple path:
+
+**Discover → Learn → Build → Govern → Share**
+
+Through the Automation Citizen Program, I help users learn how to:
+
+- Recognize automation opportunities
+- Choose the right tool for the problem
+- Build solutions using Power Platform
+- Follow common development standards
+- Maintain their own solutions
+- Share knowledge with others
+
+The goal is to turn automation from a centralized service into a capability shared across the organization.
+
+---
+
 ## 📜 Certifications That Back It Up
 
 | Credential | Issuer | Earned | |
