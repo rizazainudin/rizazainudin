@@ -101,6 +101,7 @@ The goal is to turn automation from a centralized service into a capability shar
 
 | Credential | Issuer | Earned | |
 |---|---|---|---|
+| **AB-620 · AI Agent Builder Associate** | Microsoft | Sep 2026 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/Riza-Zainudin/49627E95AEB80A88) |
 | **AB-731 · AI Transformation Leader** | Microsoft | Aug 2026 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/Riza-Zainudin/73556BC3D54B9837) |
 | **AB-730 · AI Business Professional** | Microsoft | Jul 2026 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/Riza-Zainudin/E105D0106F2BEDE) |
 | **AB-900 · Copilot & Agent Administration Fundamentals** | Microsoft | Apr 2026 | [Show credential](https://learn.microsoft.com/api/credentials/share/en-us/Riza-Zainudin/62D3C72C21CA7E94) |
